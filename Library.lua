@@ -1,5 +1,3 @@
-print('Loading UI Linoria v 1.15')
-
 local InputService = game:GetService('UserInputService')
 local TextService = game:GetService('TextService')
 local TweenService = game:GetService('TweenService')
@@ -2782,7 +2780,7 @@ function Library:CreateWindow(...)
 			BackgroundTransparency = 1,
 			Position = UDim2.new(0, 120, 0.02, 0),
 			Size = UDim2.new(0, 15, 0, 15),
-			Image = 'http://www.roblox.com/asset/?id=6031094667',
+			Image = 'http://www.roblox.com/asset/?id=9807065410',
 			ZIndex = 7,
 			Parent = Inner,
 	})
