@@ -2780,8 +2780,8 @@ function Library:CreateWindow(...)
 	local windowmarck = Library:Create('ImageLabel', {
 			AnchorPoint = Vector2.new(0, 0.5),
 			BackgroundTransparency = 1,
-			Position = UDim2.new(1, -11.5, 0.5, 0),
-			Size = UDim2.new(1, 0, 1, 0),
+			Position = UDim2.new(0, 120, 0.02, 0),
+			Size = UDim2.new(0, 15, 0, 15),
 			Image = 'http://www.roblox.com/asset/?id=6031094667',
 			ZIndex = 7,
 			Parent = Inner,
